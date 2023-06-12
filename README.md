@@ -3,14 +3,17 @@
 
 ### 主代码：
 pyteste_QAexcel.py  —针对QA开箱即用项目，保持与OutdoorClothingCatalog_1000.csv数据结构一致，提问即可。
+
 pyteste_txt.py —针对TXT文档开箱即用项目，合理切分txt大小（在token范围内！），提问即可。
 
 ### 学习项目：
 LangChain for LLM Application Development
+
 ——主要参考：5.文档问答.ipynb
 
 ### 数据：
 QA：OutdoorClothingCatalog_1000.csv
+
 TXT：rawdata（目录下所有文件，英文西游记）
 
 ### 视频正在审核中~
