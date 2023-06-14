@@ -16,9 +16,8 @@ QA：OutdoorClothingCatalog_1000.csv
 
 TXT：rawdata（目录下所有文件，英文西游记）
 
-### 视频正在审核中~
+### 视频
+https://www.bilibili.com/video/BV1sW4y197Ym/
 
 ### demo
 ![image](https://github.com/Bald0Wang/llm-langchain-quick-start/assets/38057320/62aea423-0fef-438f-b5f2-33521acff21b)
-
-### 
